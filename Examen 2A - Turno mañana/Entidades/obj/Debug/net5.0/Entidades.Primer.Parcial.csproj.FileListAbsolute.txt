@@ -1,0 +1,12 @@
+C:\Users\GONZALO\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.Primer.Parcial.deps.json
+C:\Users\GONZALO\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.Primer.Parcial.dll
+C:\Users\GONZALO\source\repos\Entidades\Entidades\bin\Debug\net5.0\ref\Entidades.Primer.Parcial.dll
+C:\Users\GONZALO\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.Primer.Parcial.pdb
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.csproj.AssemblyReference.cache
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.dll
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\ref\Entidades.Primer.Parcial.dll
+C:\Users\GONZALO\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.Primer.Parcial.pdb
