@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\bin\Debug\net5.0\Bibioteca.deps.json
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\bin\Debug\net5.0\Bibioteca.dll
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\bin\Debug\net5.0\Bibioteca.pdb
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.dll
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\refint\Bibioteca.dll
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\Bibioteca.pdb
+C:\Users\Usuario\source\repos\Sotomayor.Joaquin.2C\Bibioteca\obj\Debug\net5.0\ref\Bibioteca.dll
